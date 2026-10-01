@@ -90,7 +90,7 @@ dashboard-analise-clientes-e-campanhas/
 
 ## 📊 Dashboard
 
-<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/8af8ff5d-aa8e-4b3b-9917-e73e58eaef9f" />
+<img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/df2bd2bc-5ba2-4b5d-ab55-f0c92956d96a" />
 <img width="1429" height="801" alt="image" src="https://github.com/user-attachments/assets/424f6608-1bf5-46a8-bb29-374e8e1ca204" />
 <img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/dd2f9090-b416-4c4b-8cfc-c37b656398fa" />
 <img width="1429" height="800" alt="image" src="https://github.com/user-attachments/assets/1dd124fb-8ffe-461e-94c1-e55cf36cd907" />
@@ -109,7 +109,7 @@ O arquivo `.pbix` utilizado no desenvolvimento do dashboard está disponível ne
 
 > Link para o dashboard no Power BI será disponibilizado aqui.
 
-[**Visualizar Dashboard no Power BI**](https://app.powerbi.com/groups/me/reports/56015f70-f1fa-4558-b9df-82786f852e53/db255e1d2a0035008076?language=pt-BR&experience=power-bi)
+[**Visualizar Dashboard no Power BI**](https://app.powerbi.com/groups/me/reports/f0a16598-2233-448e-a70f-14b48cf800c2/db255e1d2a0035008076?language=pt-BR&experience=power-bi)
 
 ---
 
