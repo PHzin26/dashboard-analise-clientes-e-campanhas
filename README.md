@@ -109,7 +109,7 @@ O arquivo `.pbix` utilizado no desenvolvimento do dashboard está disponível ne
 
 > Link para o dashboard no Power BI será disponibilizado aqui.
 
-[**Visualizar Dashboard no Power BI**](https://app.powerbi.com/groups/me/reports/f0a16598-2233-448e-a70f-14b48cf800c2/db255e1d2a0035008076?language=pt-BR&experience=power-bi)
+[**Visualizar Dashboard no Power BI**](https://app.powerbi.com/links/IpuZgAHr7v?ctid=2f4debb8-643a-4dbe-927b-9e562ef700b9&pbi_source=linkShare)
 
 ---
 
