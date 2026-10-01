@@ -90,17 +90,10 @@ dashboard-analise-clientes-e-campanhas/
 
 ## 📊 Dashboard
 
-### Visão Cliente
-
-![Visão Cliente](imagens/visao-cliente.png)
-
-### Visão Comportamento
-
-![Visão Comportamento](imagens/visao-comportamento.png)
-
-### Visão Campanha
-
-![Visão Campanha](imagens/visao-campanha.png)
+<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/8af8ff5d-aa8e-4b3b-9917-e73e58eaef9f" />
+<img width="1429" height="801" alt="image" src="https://github.com/user-attachments/assets/424f6608-1bf5-46a8-bb29-374e8e1ca204" />
+<img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/dd2f9090-b416-4c4b-8cfc-c37b656398fa" />
+<img width="1429" height="800" alt="image" src="https://github.com/user-attachments/assets/1dd124fb-8ffe-461e-94c1-e55cf36cd907" />
 
 ---
 
@@ -133,8 +126,5 @@ A navegação entre as páginas possibilita uma análise mais detalhada de cada 
 Desenvolvido por **Pedro Henrique Alves Campos** como projeto de análise de dados e desenvolvimento de dashboard utilizando Power BI.
 
 
-<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/8af8ff5d-aa8e-4b3b-9917-e73e58eaef9f" />
-<img width="1429" height="801" alt="image" src="https://github.com/user-attachments/assets/424f6608-1bf5-46a8-bb29-374e8e1ca204" />
-<img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/dd2f9090-b416-4c4b-8cfc-c37b656398fa" />
-<img width="1429" height="800" alt="image" src="https://github.com/user-attachments/assets/1dd124fb-8ffe-461e-94c1-e55cf36cd907" />
+
 
